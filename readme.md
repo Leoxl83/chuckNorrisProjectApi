@@ -1,9 +1,9 @@
-#Chuck Norris Quotes
-Aun en construccion... :construction:
+# Chuck Norris Quotes
+## Aun en construccion... :construction:
 
-###Info
-Proyecto de practica de llamada a una Api
+### Info
+>Proyecto de practica de llamada a una Api
 
-###Pendiente
+### Pendiente
 -Responsive
 -Mejorar Estilos
